@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Documents\Indexer,exception\Indexer-Exception-Practice\Indexer-Exception-Practice\bin\Debug\net6.0\Indexer-Exception-Practice.exe
+C:\Users\Asus\OneDrive\Documents\Indexer,exception\Indexer-Exception-Practice\Indexer-Exception-Practice\bin\Debug\net6.0\Indexer-Exception-Practice.deps.json
+C:\Users\Asus\OneDrive\Documents\Indexer,exception\Indexer-Exception-Practice\Indexer-Exception-Practice\bin\Debug\net6.0\Indexer-Exception-Practice.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\Indexer,exception\Indexer-Exception-Practice\Indexer-Exception-Practice\bin\Debug\net6.0\Indexer-Exception-Practice.dll
+C:\Users\Asus\OneDrive\Documents\Indexer,exception\Indexer-Exception-Practice\Indexer-Exception-Practice\bin\Debug\net6.0\Indexer-Exception-Practice.pdb
+C:\Users\Asus\OneDrive\Documents\Indexer,exception\Indexer-Exception-Practice\Indexer-Exception-Practice\obj\Debug\net6.0\Indexer-Exception-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\Indexer,exception\Indexer-Exception-Practice\Indexer-Exception-Practice\obj\Debug\net6.0\Indexer-Exception-Practice.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\Indexer,exception\Indexer-Exception-Practice\Indexer-Exception-Practice\obj\Debug\net6.0\Indexer-Exception-Practice.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\Indexer,exception\Indexer-Exception-Practice\Indexer-Exception-Practice\obj\Debug\net6.0\Indexer-Exception-Practice.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\Indexer,exception\Indexer-Exception-Practice\Indexer-Exception-Practice\obj\Debug\net6.0\Indexer-Exception-Practice.dll
+C:\Users\Asus\OneDrive\Documents\Indexer,exception\Indexer-Exception-Practice\Indexer-Exception-Practice\obj\Debug\net6.0\refint\Indexer-Exception-Practice.dll
+C:\Users\Asus\OneDrive\Documents\Indexer,exception\Indexer-Exception-Practice\Indexer-Exception-Practice\obj\Debug\net6.0\Indexer-Exception-Practice.pdb
+C:\Users\Asus\OneDrive\Documents\Indexer,exception\Indexer-Exception-Practice\Indexer-Exception-Practice\obj\Debug\net6.0\Indexer-Exception-Practice.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\Indexer,exception\Indexer-Exception-Practice\Indexer-Exception-Practice\obj\Debug\net6.0\ref\Indexer-Exception-Practice.dll

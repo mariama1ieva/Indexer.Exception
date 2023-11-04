@@ -1,5 +1,6 @@
 ﻿using Exception;
- 
+using Exception.Exceptions;
+
 
 //Repository<Person> data=new Repository<Person>();
 //data.Add(new Person { Age=22,Name="Meryem",Surname="Aliyeva",Id=1});
@@ -25,26 +26,34 @@
 
 
 //TASK3
-try
+
+static void Num(int a)
 {
-    int a =int.Parse(Console.ReadLine());
-    
-    if (a>0)
+    try
     {
 
-        int factorial = 1;
-        for (int i = 1; i <= a; i++)
+        if (a > 0)
         {
-            factorial *= i;
+
+            int factorial = 1;
+            for (int i = 1; i <= a; i++)
+            {
+                factorial *= i;
+                
+            }
+            Console.WriteLine(factorial);
+        }
+        else
+        {
+            throw new OperationExceptions();
         }
     }
+    catch (OperationExceptions ex)
+    {
+        Console.WriteLine(ex.Message);
+    }
+
 }
-catch(Exception ex)
-{
-    Console.WriteLine(ex.Message);
-}
 
-
-
-
-
+int a =int.Parse(Console.ReadLine());
+Num(a);
